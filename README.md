@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://i.ibb.co/1L412ms/Peek-2023-03-01-23-15.gif" alt="Gif demo" />
+<img src="https://user-images.githubusercontent.com/49620737/223553861-4430b3c2-e1a3-4bfe-8000-e01fd750893c.png" alt="Gif demo" />
 </p>
 <h2 align="center">
-  📰 <a href="https://betteraim.herokuapp.com">Reddit Upvote Predictor</a> 📰
+  📰 Reddit Upvote Predictor 📰
 </h2>
 <h3 align="center"> 
   Enter a reddit post URL and a comment to get the chance of it being upvoted.
